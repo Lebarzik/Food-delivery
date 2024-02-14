@@ -39,6 +39,7 @@ namespace Доставка_еды
 
             Border_Radius(pictureBox1, 10);
             Border_Radius(pictureBox2, 10);
+            Border_Radius(pictureBox3, 10);
         }
 
         private void Border_Radius(PictureBox img, int radius)
