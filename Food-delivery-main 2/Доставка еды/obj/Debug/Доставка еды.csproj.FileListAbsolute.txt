@@ -1,0 +1,33 @@
+Z:\!Обмен\УП 01.01 П-31\Хорин\Приложение Доставка еды\Доставка еды\bin\Debug\Доставка еды.exe.config
+Z:\!Обмен\УП 01.01 П-31\Хорин\Приложение Доставка еды\Доставка еды\bin\Debug\Доставка еды.exe
+Z:\!Обмен\УП 01.01 П-31\Хорин\Приложение Доставка еды\Доставка еды\bin\Debug\Доставка еды.pdb
+Z:\!Обмен\УП 01.01 П-31\Хорин\Приложение Доставка еды\Доставка еды\obj\Debug\Доставка еды.csproj.AssemblyReference.cache
+Z:\!Обмен\УП 01.01 П-31\Хорин\Приложение Доставка еды\Доставка еды\obj\Debug\Доставка_еды.Form1.resources
+Z:\!Обмен\УП 01.01 П-31\Хорин\Приложение Доставка еды\Доставка еды\obj\Debug\Доставка_еды.Properties.Resources.resources
+Z:\!Обмен\УП 01.01 П-31\Хорин\Приложение Доставка еды\Доставка еды\obj\Debug\Доставка еды.csproj.GenerateResource.cache
+Z:\!Обмен\УП 01.01 П-31\Хорин\Приложение Доставка еды\Доставка еды\obj\Debug\Доставка еды.csproj.CoreCompileInputs.cache
+Z:\!Обмен\УП 01.01 П-31\Хорин\Приложение Доставка еды\Доставка еды\obj\Debug\Доставка еды.exe
+Z:\!Обмен\УП 01.01 П-31\Хорин\Приложение Доставка еды\Доставка еды\obj\Debug\Доставка еды.pdb
+E:\Food-delivery-main\Доставка еды\bin\Debug\Доставка еды.exe.config
+E:\Food-delivery-main\Доставка еды\bin\Debug\Доставка еды.exe
+E:\Food-delivery-main\Доставка еды\bin\Debug\Доставка еды.pdb
+E:\Food-delivery-main\Доставка еды\obj\Debug\Доставка еды.csproj.AssemblyReference.cache
+E:\Food-delivery-main\Доставка еды\obj\Debug\Доставка_еды.Form1.resources
+E:\Food-delivery-main\Доставка еды\obj\Debug\Доставка_еды.Properties.Resources.resources
+E:\Food-delivery-main\Доставка еды\obj\Debug\Доставка еды.csproj.GenerateResource.cache
+E:\Food-delivery-main\Доставка еды\obj\Debug\Доставка еды.csproj.CoreCompileInputs.cache
+E:\Food-delivery-main\Доставка еды\obj\Debug\Доставка еды.exe
+E:\Food-delivery-main\Доставка еды\obj\Debug\Доставка еды.pdb
+E:\Food-delivery-main\Доставка еды\obj\Debug\Доставка_еды.Restoran.resources
+E:\Food-delivery-main\Доставка еды\obj\Debug\Доставка_еды.Restoran1_Desert.resources
+E:\Food-delivery-main\Доставка еды\obj\Debug\Доставка_еды.Restoran1_Napitki.resources
+E:\Food-delivery-main\Доставка еды\obj\Debug\Доставка_еды.Restoran1.resources
+E:\Food-delivery-main\Доставка еды\obj\Debug\Доставка_еды.Restoran2_Pelemeni.resources
+E:\Food-delivery-main\Доставка еды\obj\Debug\Доставка_еды.Restoran2_Vareniki.resources
+E:\Food-delivery-main\Доставка еды\obj\Debug\Доставка_еды.Restoran2_Vtorie_bluda.resources
+E:\Food-delivery-main\Доставка еды\obj\Debug\Доставка_еды.Restoran2.resources
+E:\Food-delivery-main\Доставка еды\obj\Debug\Доставка_еды.Restoran3_Gorachie.resources
+E:\Food-delivery-main\Доставка еды\obj\Debug\Доставка_еды.Restoran3_Holodnie.resources
+E:\Food-delivery-main\Доставка еды\obj\Debug\Доставка_еды.Restoran3_Salati.resources
+E:\Food-delivery-main\Доставка еды\obj\Debug\Доставка_еды.Restoran3.resources
+E:\Food-delivery-main\Доставка еды\obj\Debug\Доставка_еды.Restoran1__Zakuski.resources
